@@ -9,6 +9,10 @@ on:
       - 'icon108/**' # 监视 icons 文件夹及其子文件夹下的内容
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pull-requests: write
+  
 jobs:
   generate_json:
     runs-on: ubuntu-latest
