@@ -3,6 +3,10 @@
   "description": "补全其他图标库没有的图标",
   "icons": [
     {
+      "name": "bili108.png",
+      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/bili108.png"
+    },
+    {
       "name": "Pinterest108.png",
       "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/Pinterest108.png"
     },
