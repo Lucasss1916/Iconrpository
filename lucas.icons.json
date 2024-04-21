@@ -1,0 +1,22 @@
+{
+  "name": "lucas图标订阅",
+  "description": "补全其他图标库没有的图标",
+  "icons": [
+    {
+      "name": "Pinterest108.png",
+      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/Pinterest108.png"
+    },
+    {
+      "name": "copilot108.png",
+      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/copilot108.png"
+    },
+    {
+      "name": "openai108.png",
+      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/openai108.png"
+    },
+    {
+      "name": "github108.png",
+      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/github108.png"
+    }
+  ]
+}
