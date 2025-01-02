@@ -3,44 +3,44 @@
   "description": "补全其他图标库没有的图标",
   "icons": [
     {
-      "name": "bili108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/bili108.png"
-    },
-    {
       "name": "copilot108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/copilot108.png"
-    },
-    {
-      "name": "蜜雪冰城108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/蜜雪冰城108.png"
-    },
-    {
-      "name": "github108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/github108.png"
-    },
-    {
-      "name": "Pinterest108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/Pinterest108.png"
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/copilot108.png"
     },
     {
       "name": "reddit108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/reddit108.png"
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/reddit108.png"
     },
     {
-      "name": "llgjc.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/llgjc.png"
+      "name": "bili108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/bili108.png"
     },
     {
       "name": "openai108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/openai108.png"
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/openai108.png"
+    },
+    {
+      "name": "Pinterest108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/Pinterest108.png"
+    },
+    {
+      "name": "github108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/github108.png"
+    },
+    {
+      "name": "蜜雪冰城108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/蜜雪冰城108.png"
     },
     {
       "name": "x108.png",
-      "url": "https://raw.githubusercontent.com/Yuzihang9/Iconrpository/main/icon108/x108.png"
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/x108.png"
     },
     {
-      "name": "Mitce108.ico",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/refs/heads/main/icon108/Mitce108.ico"
+      "name": "llg108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/llg108.png"
+    },
+    {
+      "name": "llgjc.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/llgjc.png"
     }
   ]
 }
