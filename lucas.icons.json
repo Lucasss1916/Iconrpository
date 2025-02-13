@@ -3,10 +3,6 @@
   "description": "补全其他图标库没有的图标",
   "icons": [
     {
-      "name": "llgjc.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/llgjc.png"
-    },
-    {
       "name": "github108.png",
       "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/github108.png"
     },
