@@ -3,45 +3,60 @@
   "description": "补全其他图标库没有的图标",
   "icons": [
     {
-      "name": "copilot108.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/copilot108.png"
-    },
-    {
-      "name": "reddit108.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/reddit108.png"
-    },
-    {
-      "name": "bili108.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/bili108.png"
-    },
-    {
-      "name": "openai108.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/openai108.png"
-    },
-    {
-      "name": "Pinterest108.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/Pinterest108.png"
+      "name": "llgjc.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/llgjc.png"
     },
     {
       "name": "github108.png",
       "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/github108.png"
     },
     {
-      "name": "talktone108.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/talktone108.png"
+      "name": "Pinterest108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/Pinterest108.png"
     },
     {
-      "name": "蜜雪冰城108.png",
-      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/蜜雪冰城108.png"
+      "name": "NewLlg108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/NewLlg108.png"
+    },
+    {
+      "name": "Mitce108.png.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/Mitce108.png.png"
     },
     {
       "name": "x108.png",
       "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/x108.png"
     },
     {
+      "name": "newllg.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/newllg.png"
+    },
+    {
+      "name": "bili108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/bili108.png"
+    },
+    {
+      "name": "reddit108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/reddit108.png"
+    },
+    {
+      "name": "talktone108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/talktone108.png"
+    },
+    {
+      "name": "copilot108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/copilot108.png"
+    },
+    {
+      "name": "蜜雪冰城108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/蜜雪冰城108.png"
+    },
+    {
+      "name": "openai108.png",
+      "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/openai108.png"
+    },
+    {
       "name": "llg108.png",
       "url": "https://raw.githubusercontent.com/Lucasss1916/Iconrpository/main/icon108/llg108.png"
-    },
-
+    }
   ]
 }
